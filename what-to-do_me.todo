@@ -1,0 +1,16 @@
+
+☐ @critical Еще более простой вариант запускать локально сайты это Browser-sync
+ он запускает все файлы с директории по команде, ставиться npm-ом команда такова
+ browser-sync start --server --directory --files "**/*"
+
+ 
+ ☐  @low описание файлов относящихся к веб сереру EXPRESS: Server.js, node_modules, package.json
+    * Файды относящиеся к текствоым редакторам как файды проектов: note++.projext, openUI*sublime-project
+    Всё остальное относиться к sapui5 проекту!
+    * Более простой вариант от корейца http://scn.sap.com/people/ashish.anand4/blog/2014/11/15/integrate-sap-ui5-or-open-ui5-with-nodejs.
+    * Как настроить свой себ сервер для тестов осень просто 
+    http://openui5.blogspot.com/p/nodejs.html
+
+
+ ☐ @today  на openSAP изучаю их single page очень интересно и приятно. тут паралеьно
+ делать по хелпу на сайте оригинале. 
